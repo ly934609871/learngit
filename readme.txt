@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git Git Git.
 Creating a new branch is quick and simple.
 add merge
+学习git的过程
